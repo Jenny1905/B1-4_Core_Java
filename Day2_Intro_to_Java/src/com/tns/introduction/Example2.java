@@ -14,7 +14,7 @@ public class Example2 {
 		System.out.println(a*b);
 		System.out.println(a/b);
 		System.out.println(a%b);
-		
+		s.close();
 		
 
 	}

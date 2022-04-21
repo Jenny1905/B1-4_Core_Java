@@ -6,7 +6,7 @@ import java.util.regex.PatternSyntaxException;
 
 public class Program4 {
    private static String REGEX = "[";
-   private static String INPUT = "The dog says meow " + "All dogs say meow.";
+   private static String INPUT = "I love Mumbai " + "Mumbai is famous for bollywood city.";
    private static String REPLACE = "cat";
 
    public static void main(String[] args) {

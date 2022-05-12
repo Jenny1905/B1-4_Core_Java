@@ -12,7 +12,7 @@ public class Client {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ShopFactory s=new GSShopFactory();
-		PrimeAcc p=new GSPrimeAcc(123,"vinay T N",250,true);
+		PrimeAcc p=new GSPrimeAcc(123,"Vinat T N",250,true);
 		NormalAcc n=new GSNormalAcc(124,"Tharun",300,10);
 		System.out.println("Prime account ");
 		p.bookProduct(p.getCharge());
